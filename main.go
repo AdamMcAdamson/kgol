@@ -3,7 +3,7 @@ package main
 import rl "github.com/gen2brain/raylib-go/raylib"
 
 func main() {
-	rl.InitWindow(800, 450, "kg")
+	rl.InitWindow(800, 450, "kgol")
 	defer rl.CloseWindow()
 	rl.SetTargetFPS(60)
 
